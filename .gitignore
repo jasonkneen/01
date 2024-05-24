@@ -173,3 +173,4 @@ software/output_audio.wav
 # ignore node modules and .expo files
 node_modules/
 .expo/
+.vscode/settings.json
